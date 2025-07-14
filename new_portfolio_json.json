@@ -1,0 +1,125 @@
+{
+  "name": "Abdallah Ahmed",
+  "jobTitle": "Mobile App Developer",
+  "summary": "Experienced mobile app developer specializing in Flutter and Android development. Passionate about creating user-friendly applications that solve real-world problems.",
+  "age": 25,
+  "freelance": true,
+  "address": "Cairo, Egypt",
+  "email": "abdallah.ahmed@example.com",
+  "phone_number": "+20 123 456 7890",
+  "socialLinks": [
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/Abdallah1719",
+      "icon": "assets/icons/github.svg"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://linkedin.com/in/abdallah-ahmed",
+      "icon": "assets/icons/linkedin.svg"
+    },
+    {
+      "platform": "Email",
+      "url": "mailto:abdallah@example.com",
+      "icon": "assets/icons/email.svg"
+    }
+  ],
+  "skills": [
+    "Flutter",
+    "Dart",
+    "Android Development",
+    "Firebase",
+    "API Integration",
+    "UI/UX Design",
+    "Git",
+    "Java",
+    "Kotlin"
+  ],
+  "extraSkills": [
+    "Project Management",
+    "Team Leadership",
+    "Problem Solving",
+    "Communication",
+    "Agile Methodology"
+  ],
+  "languages": [
+    {
+      "language": "Arabic",
+      "level": "Native"
+    },
+    {
+      "language": "English",
+      "level": "Fluent"
+    },
+    {
+      "language": "French",
+      "level": "Basic"
+    }
+  ],
+  "workItems": [
+    {
+      "imagePath": "assets/apps_icons/Almarad_icon.png",
+      "title": "Al Marad - المعرض",
+      "description": "The exhibition application provides an exceptional experience for Cairo International Book Fair visitors, combining innovation and technology to serve readers of Egypt and the Arab world, publishing houses and sponsors. Browse the entire Cairo International Book Fair with us on the exhibition application.",
+      "androidLink": "https://play.google.com/store/apps/details?id=com.maarad",
+      "iosLink": "https://apps.apple.com/app/al-marad/id123456789",
+      "previewPhoto": "assets/preview_pictures/almarad_pw.png"
+    },
+    {
+      "imagePath": "assets/apps_icons/alomda_icon.png",
+      "title": "Al Omda - العمده",
+      "description": "Al Omda application is an app specialized in fresh vegetables, fruits and juices , We provide you with a hassle-free user experience , Through the application, you can shop fresh and healthy vegetables, fruits, and juices for you and your family , We provide home delivery , Browse an abundance of products and items, register and add products to the shopping cart.",
+      "androidLink": "https://play.google.com/store/apps/details?id=com.alomda.ecommerce",
+      "iosLink": "https://apps.apple.com/app/al-omda/id123456790",
+      "previewPhoto": "assets/preview_pictures/elomda_pw.png"
+    },
+    {
+      "imagePath": "assets/apps_icons/edustation_icon.jpg",
+      "title": "EduStation",
+      "description": "EduStation is a collaborative platform that simplifies the concept of cooperative training, fostering the development of the knowledge economy between university students, high school graduates, and the local and regional job market. It achieves this by offering daily field skills based on an hourly system to each registered student, according to their specialization and academic interests",
+      "androidLink": "https://play.google.com/store/apps/details?id=app.edustation",
+      "iosLink": "https://apps.apple.com/app/edustation/id123456791",
+      "previewPhoto": "assets/preview_pictures/edustation_pw.png"
+    },
+    {
+      "imagePath": "assets/apps_icons/note_icon.png",
+      "title": "Notes/ToDo App",
+      "description": "It's a digital application that functions as an electronic notebook, allowing you to jot down any thought that comes to mind, including ideas and notes. It also features a to-do list designed to assist you in managing your daily and weekly tasks. This helps you prioritize, track your progress, and ensure that all your tasks are completed on time, This application consists of two main windows: 'Notes' and 'To Do'",
+      "androidLink": "https://play.google.com/store/apps/details?id=com.notes.todo",
+      "iosLink": "https://apps.apple.com/app/notes-todo/id123456792",
+      "previewPhoto": "assets/preview_pictures/note-app-pw.png"
+    },
+    {
+      "imagePath": "assets/icons/github.svg",
+      "title": "News App",
+      "description": "News app is a simple and easy application that uses the latest news from different sources around the world. The application is based on API which allows the news to be displayed dynamically and updated automatically.",
+      "androidLink": "https://github.com/Abdallah1719/news_app",
+      "iosLink": "https://github.com/Abdallah1719/news_app_ios",
+      "previewPhoto": "assets/preview_pictures/news-app-pw.png"
+    },
+    {
+      "imagePath": "assets/icons/github.svg",
+      "title": "Weather App",
+      "description": "Weather app is an app that displays current weather information for any city around the world. The app relies on an API that allows weather information to be displayed dynamically and updated automatically.",
+      "androidLink": "https://github.com/Abdallah1719/Weather-App",
+      "iosLink": "https://github.com/Abdallah1719/Weather-App-iOS",
+      "previewPhoto": "assets/preview_pictures/weather-app-pw.png"
+    },
+    {
+      "imagePath": "assets/icons/github.svg",
+      "title": "Chat App",
+      "description": "Chat app is an instant messaging app that allows users to communicate with each other quickly and efficiently. The app uses Firebase to store data and manage users, making it easy to develop and scalable.",
+      "androidLink": "https://github.com/Abdallah1719/Chat_App",
+      "iosLink": "https://github.com/Abdallah1719/Chat_App_iOS",
+      "previewPhoto": "assets/preview_pictures/chat-app-pw.png"
+    },
+    {
+      "imagePath": "assets/icons/github.svg",
+      "title": "Store App",
+      "description": "The store application is an application that allows users to browse products and services, add them to the shopping cart, and complete the purchase process easily and efficiently. The application relies on a database to store products and user data.",
+      "androidLink": "https://github.com/Abdallah1719/Store-App",
+      "iosLink": "https://github.com/Abdallah1719/Store-App-iOS",
+      "previewPhoto": "assets/preview_pictures/store-app-pw.png"
+    }
+  ]
+}
