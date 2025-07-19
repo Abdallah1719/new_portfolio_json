@@ -7,6 +7,8 @@
   "address": "Al-Mansoura, Egypt",
   "email": "abdallahtolba17@gmail.com",
   "phone_number": "+20 1060841605",
+  "profilePicture": "https://raw.githubusercontent.com/Abdallah1719/new_portfolio_json/refs/heads/main/assets/photo.jpg",
+  "summaryImage": "https://raw.githubusercontent.com/Abdallah1719/new_portfolio_json/refs/heads/main/assets/app_photo.jpg",
   "socialLinks": [
     {
       "platform": "GitHub",
