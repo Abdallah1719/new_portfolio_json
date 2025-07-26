@@ -6,9 +6,10 @@
   "freelance": "Available",
   "address": "Al-Mansoura, Egypt",
   "email": "abdallahtolba17@gmail.com",
-  "phone_number": "+20 1060841605",
+  "phoneNumber": "+20 1060841605",
   "profilePicture": "https://raw.githubusercontent.com/Abdallah1719/new_portfolio_json/refs/heads/main/assets/photo.jpg",
   "summaryImage": "https://raw.githubusercontent.com/Abdallah1719/new_portfolio_json/refs/heads/main/assets/app_photo.jpg",
+  "cvLink": "https://drive.google.com/file/d/1IkPNjbYqSo5tEKFzbexFsF7SLojsNocy/view?usp=sharing",
   "socialLinks": [
     {
       "platform": "GitHub",
