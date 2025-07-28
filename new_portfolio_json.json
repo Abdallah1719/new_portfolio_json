@@ -13,7 +13,7 @@
   "socialLinks": [
     {
       "platform": "Whatsapp",
-      "url": "https://api.whatsapp.com/send?phone=$contact&text=Hey!%20",
+      "url": "https://api.whatsapp.com/send?phone=201060841605&text=Hey!%20",
       "icon": "assets/icons/whatsapp.svg"
     },
     {
