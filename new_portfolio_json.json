@@ -30,13 +30,16 @@
   "skills": [
     "Flutter",
     "Dart",
-    "Android Development",
-    "Firebase",
-    "API Integration",
-    "UI/UX Design",
-    "Git",
-    "Java",
-    "Kotlin"
+    "Firebase & supabase",
+    "API integration (JSON, REST)",
+    "State Management (Bloc,Provider,Riverpod)",
+    "Clean Architecture,MVVM,MVC",
+    "Local DataBase,Sqlite,Sharedpreferences",
+    "Solid Principles",
+    "Design Patterns",
+    "Responsive Design",
+    "Version Control (Git)",
+    "OOP" 
   ],
   "extraSkills": [
     "Project Management",
@@ -56,10 +59,18 @@
   ],
   "workItems": [
     {
+      "imagePath": "https://raw.githubusercontent.com/Abdallah1719/new_portfolio_json/refs/heads/main/assets/apps_icons/edustation_icon.jpg",
+      "title": "EduStation",
+      "description": "EduStation is a collaborative platform that simplifies the concept of cooperative training, fostering the development of the knowledge economy between university students, high school graduates, and the local and regional job market. It achieves this by offering daily field skills based on an hourly system to each registered student, according to their specialization and academic interests",
+      "androidLink":"https://play.google.com/store/apps/details?id=app.edustation",
+      "iosLink": "https://apps.apple.com/us/app/edustation-app/id6475177781",
+      "previewPhoto": "https://raw.githubusercontent.com/Abdallah1719/new_portfolio_json/refs/heads/main/assets/preview_pictures/almarad_pw.png"
+    },
+    {
       "imagePath": "https://raw.githubusercontent.com/Abdallah1719/new_portfolio_json/refs/heads/main/assets/apps_icons/Almarad_icon.png",
       "title": "Al Marad - المعرض",
       "description": "The exhibition application provides an exceptional experience for Cairo International Book Fair visitors, combining innovation and technology to serve readers of Egypt and the Arab world, publishing houses and sponsors. Browse the entire Cairo International Book Fair with us on the exhibition application.",
-      "androidLink": "https://play.google.com/store/apps/details?id=com.maarad",
+      "androidLink":"https://play.google.com/store/apps/details?id=com.maarad",
       "iosLink": "https://apps.apple.com/app/al-marad/id123456789",
       "previewPhoto": "https://raw.githubusercontent.com/Abdallah1719/new_portfolio_json/refs/heads/main/assets/preview_pictures/almarad_pw.png"
     },
@@ -76,7 +87,7 @@
       "title": "News App",
       "description": "News app is a simple and easy application that uses the latest news from different sources around the world. The application is based on API which allows the news to be displayed dynamically and updated automatically.",
       "androidLink": "https://github.com/Abdallah1719/news_app",
-      "iosLink": "https://github.com/Abdallah1719/news_app_ios",
+      "iosLink": "https://github.com/Abdallah1719/news_app",
       "previewPhoto": "https://raw.githubusercontent.com/Abdallah1719/new_portfolio_json/refs/heads/main/assets/preview_pictures/news-app-pw.png"
     },
     {
@@ -84,7 +95,7 @@
       "title": "Weather App",
       "description": "Weather app is an app that displays current weather information for any city around the world. The app relies on an API that allows weather information to be displayed dynamically and updated automatically.",
       "androidLink": "https://github.com/Abdallah1719/Weather-App",
-      "iosLink": "https://github.com/Abdallah1719/Weather-App-iOS",
+      "iosLink": "https://github.com/Abdallah1719/Weather-App",
       "previewPhoto": "https://raw.githubusercontent.com/Abdallah1719/new_portfolio_json/refs/heads/main/assets/preview_pictures/weather-app-pw.png"
     },
     {
@@ -92,7 +103,7 @@
       "title": "Chat App",
       "description": "Chat app is an instant messaging app that allows users to communicate with each other quickly and efficiently. The app uses Firebase to store data and manage users, making it easy to develop and scalable.",
       "androidLink": "https://github.com/Abdallah1719/Chat_App",
-      "iosLink": "https://github.com/Abdallah1719/Chat_App_iOS",
+      "iosLink": "https://github.com/Abdallah1719/Chat_App",
       "previewPhoto": "https://raw.githubusercontent.com/Abdallah1719/new_portfolio_json/refs/heads/main/assets/preview_pictures/chat-app-pw.png"
     },
     {
@@ -100,7 +111,7 @@
       "title": "Store App",
       "description": "The store application is an application that allows users to browse products and services, add them to the shopping cart, and complete the purchase process easily and efficiently. The application relies on a database to store products and user data.",
       "androidLink": "https://github.com/Abdallah1719/Store-App",
-      "iosLink": "https://github.com/Abdallah1719/Store-App-iOS",
+      "iosLink": "https://github.com/Abdallah1719/Store-App",
       "previewPhoto": "https://raw.githubusercontent.com/Abdallah1719/new_portfolio_json/refs/heads/main/assets/preview_pictures/store-app-pw.png"
     }
   ]
