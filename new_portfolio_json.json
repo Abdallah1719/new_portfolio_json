@@ -12,6 +12,11 @@
   "cvLink": "https://drive.google.com/file/d/1IkPNjbYqSo5tEKFzbexFsF7SLojsNocy/view?usp=sharing",
   "socialLinks": [
     {
+      "platform": "Whatsapp",
+      "url": "https://api.whatsapp.com/send?phone=$contact&text=Hey!%20",
+      "icon": "assets/icons/whatsapp.svg"
+    },
+    {
       "platform": "GitHub",
       "url": "https://github.com/Abdallah1719",
       "icon": "assets/icons/github.svg"
