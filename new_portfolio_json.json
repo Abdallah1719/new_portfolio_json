@@ -48,14 +48,8 @@
     "Communication"
   ],
   "languages": [
-    {
-      "language": "Arabic",
-      "level": "Native"
-    },
-    {
-      "language": "English",
-      "level": "Fluent"
-    } 
+    "Arabic",
+    "English"  
   ],
   "workItems": [
     {
